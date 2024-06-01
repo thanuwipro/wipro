@@ -3,7 +3,7 @@ import java.lang.*;
 public class File1
   
 {
-    int x=1000;
+    int x=1000;  
     int y=200;
 
     public void add() {
@@ -14,4 +14,5 @@ public class File1
       
     }
   }
+}
   
